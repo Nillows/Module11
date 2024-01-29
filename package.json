@@ -1,14 +1,21 @@
 {
   "name": "module11",
-  "version": "1.0.0",
+  "version": "18.18.1",
   "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
