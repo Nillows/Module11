@@ -1,7 +1,7 @@
 
 # Express Note Storage
 
-## [Video Link](https://streamable.com/byuen1)
+## [Deployed App Link](https://thom-express-notes-07cbacd77d4f.herokuapp.com/)
 
 ## Description 
 This project helps users make and retrieve notes using express
@@ -22,7 +22,7 @@ This project helps users make and retrieve notes using express
 
 ## Usage 
 Once the App has launched you will be prompted to enter the app, followed by all your personal notes. The Option to add a new note is managed by clicking the `+` Icon in the top right, followed by the `save` icon to store your note. The delete
-feature is utilized by clicking the red garbage can icons next to the note titels
+feature is utilized by clicking the red garbage can icons next to the note titles
 
 ## Credits
 Nillows
